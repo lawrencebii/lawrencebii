@@ -1,4 +1,4 @@
-#### Hello Aliens! I'm a passionate Flutter developer and I'm excited to share my knowledge and experience with the community. I've been developing with Flutter for a few years now, and I'm always looking to learn new things and push the boundaries of what Flutter can do. I'm a big fan of the platform and I'm always looking for ways to improve my apps and make them better for users. If you're looking for someone to help you create amazing apps with Flutter, I'm your man. Let's work together and make some great things happen!
+#### Hi! I'm a passionate Flutter developer and I'm excited to share my knowledge and experience with the community. I've been developing with Flutter for a few years now, and I'm always looking to learn new things and push the boundaries of what Flutter can do. I'm a big fan of the platform and I'm always looking for ways to improve my apps and make them better for users. If you're looking for someone to help you create amazing apps with Flutter, I'm your man. Let's work together and make some great things happen!
 
 
 
