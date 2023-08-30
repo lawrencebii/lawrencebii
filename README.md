@@ -26,16 +26,23 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
 
 
 ### Get in touch
 <p>
   <!-- <a href="https://twitter.com/Manuelkl_" target="_blank"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a> -->
-  <a href="https://www.linkedin.com/in/elangat" target="_blank"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/lawrence-bii-126a3a213/" target="_blank"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <!-- <a href="https://github.com/Manuel-kl" target="_blank"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a> -->
 
 </p>
